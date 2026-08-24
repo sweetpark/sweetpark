@@ -1,6 +1,5 @@
 # 안녕하세요, wyp(sweetpark)입니다 👋
 
-시스템 프로그래머 · SW 개발자 · Web Backend Engineer로 일하고 있는 SW 개발 현직자입니다.
 낮은 레벨의 시스템 이해부터 웹 백엔드까지, 탄탄한 기초를 바탕으로 개발하는 것을 지향합니다.
 
 - 📝 Blog: [gradualprecision.tistory.com](https://gradualprecision.tistory.com/)
@@ -23,14 +22,7 @@
 | [codingTest-lab](https://github.com/sweetpark/codingTest-lab) | 객체지향 프로그래밍 + TDD + 코딩테스트 연습 |
 | [packet](https://github.com/sweetpark/packet) | C 언어 기반 패킷/네트워크 프로그래밍 실습 |
 
-## 📊 GitHub 현황
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sweetpark&show_icons=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sweetpark&layout=compact&exclude_repo=CalcCalender,port_scan" />
-</p>
-
-<img src="https://streak-stats.demolab.com/?user=sweetpark" />
 
 ## 📈 최근 활동
 
