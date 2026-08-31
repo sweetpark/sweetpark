@@ -13,16 +13,16 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 </p>
 
-## 🚀 진행중인 프로젝트
+## 📌 주요 프로젝트
 
 | 프로젝트 | 설명 |
 |---|---|
-| [C_LAB](https://github.com/sweetpark/C_LAB) | C 언어 기반 시스템 프로그래밍 학습/실험 저장소 |
+| [gluesql](https://github.com/sweetpark/gluesql) | GlueSQL 오픈소스 기여 (PR 병합 2건) |
+| [rag-codebase-assistant](https://github.com/sweetpark/rag-codebase-assistant) | 레거시 JSP/MyBatis 코드베이스를 위한 RAG(검색증강생성) 프로토타입 |
+| [prowler](https://github.com/sweetpark/prowler) | AWS 클라우드 보안 점검 결과를 한국어로 자동 번역하는 대시보드 |
+| [arp_spoofing_tool](https://github.com/sweetpark/arp_spoofing_tool) | ARP 스푸핑 실습 툴 (네트워크 보안 학습) |
 | [lab](https://github.com/sweetpark/lab) | Java 기반 실험 및 학습 저장소 |
 | [codingTest-lab](https://github.com/sweetpark/codingTest-lab) | 객체지향 프로그래밍 + TDD + 코딩테스트 연습 |
-| [packet](https://github.com/sweetpark/packet) | C 언어 기반 패킷/네트워크 프로그래밍 실습 |
-
-
 
 ## 📈 최근 활동
 
