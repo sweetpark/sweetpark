@@ -24,6 +24,6 @@
 | [spring-playground](https://github.com/sweetpark/spring-playground) | Spring Boot 멀티모듈 실습 플레이그라운드 |
 | [coding-test-lab](https://github.com/sweetpark/coding-test-lab) | 객체지향 프로그래밍 + TDD + 코딩테스트 연습 |
 
-## 📈 최근 활동
+## 📈 GitHub Stats
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sweetpark&theme=react-dark" />
+<img src="https://streak-stats.demolab.com/?user=sweetpark&theme=react-dark" alt="sweetpark's GitHub streak stats" />
