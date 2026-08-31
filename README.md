@@ -24,6 +24,12 @@
 | [spring-playground](https://github.com/sweetpark/spring-playground) | Spring Boot 멀티모듈 실습 플레이그라운드 |
 | [coding-test-lab](https://github.com/sweetpark/coding-test-lab) | 객체지향 프로그래밍 + TDD + 코딩테스트 연습 |
 
+## 🤝 팀 프로젝트 참여
+
+| 프로젝트 | 설명 |
+|---|---|
+| [MovieProject](https://github.com/StudyMovieProject/MovieProject) | 팀 프로젝트로 진행한 영화 정보 웹 서비스 백엔드 (일부 기여, 현재 중단) |
+
 ## 📈 GitHub Stats
 
 <img src="https://streak-stats.demolab.com/?user=sweetpark&theme=react-dark" alt="sweetpark's GitHub streak stats" />
