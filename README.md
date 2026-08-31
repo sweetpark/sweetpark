@@ -1,6 +1,4 @@
-# 안녕하세요, wyp(sweetpark)입니다 👋
-
-낮은 레벨의 시스템 이해부터 웹 백엔드까지, 탄탄한 기초를 바탕으로 개발하는 것을 지향합니다.
+# README
 
 - 📝 Blog: [gradualprecision.tistory.com](https://gradualprecision.tistory.com/)
 - 💻 GitHub: [@sweetpark](https://github.com/sweetpark)
