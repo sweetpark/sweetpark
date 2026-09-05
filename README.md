@@ -1,6 +1,6 @@
 # README
 
-- 📝 Blog: [gradualprecision.tistory.com](https://gradualprecision.tistory.com/)
+- 📝 Blog: [sweetpark.github.io](https://sweetpark.github.io/)
 - 💻 GitHub: [@sweetpark](https://github.com/sweetpark)
 
 ## 🛠 Tech Stack
