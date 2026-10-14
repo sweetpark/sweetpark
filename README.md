@@ -23,7 +23,7 @@
 | [prowler-dashboard-kr](https://github.com/sweetpark/prowler-dashboard-kr) | AWS 클라우드 보안 점검 결과를 한국어로 자동 번역하는 대시보드 |
 | [arp-spoofing-tool](https://github.com/sweetpark/arp-spoofing-tool) | ARP 스푸핑 실습 툴 (네트워크 보안 학습) |
 | [spring-playground](https://github.com/sweetpark/spring-playground) | Spring Boot 멀티모듈 실습 플레이그라운드 |
-| [c-playground](https://github.com/sweetpark/c-playground) | c 언어 실습 플레이그라운드 |
+| [c-playground](https://github.com/sweetpark/c-playgound) | c 언어 실습 플레이그라운드 |
 | [coding-test-lab](https://github.com/sweetpark/coding-test-lab) | 객체지향 프로그래밍 + TDD + 코딩테스트 연습 |
 
 ## 🤝 팀 프로젝트 참여
